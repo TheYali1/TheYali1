@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyali1" alt="theyali1" /></a> </p>
 
-- 🔭 I’m currently working on [Netral Browser](https://github.com/TheYali1/netral-browser)
+- 🔭 I’m currently working on [NetRal OS](https://github.com/TheYali1/NerRalOS)
 
 - 🌱 I’m currently learning **python**
 
