@@ -4,12 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyali1" alt="theyali1" /></a> </p>
 
-###
-
-<img align="right" height="150" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1005915399W10000H7078/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/i-stand-with-israel-sticker.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
@@ -47,14 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@דה_יהלי" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=theyali69&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
